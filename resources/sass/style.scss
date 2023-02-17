@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://images.pexels.com/photos/2835547/pexels-photo-2835547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+}
+h1,h2,h3,h4,h5,a.my-nav{
+    font-family: 'Dancing Script', cursive; 
+    color:white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+span{
+    color:orange;
+}
+.my-endcard{
+    font-size: 10px;
+    
+}
+.my-card{
+    background: rgb(148,141,128);
+    background: linear-gradient(90deg, rgba(148,141,128,0.6460959383753502) 0%, rgba(175,172,144,0.9178046218487395) 31%, rgba(218,206,155,0.7525385154061625) 56%, rgba(208,207,199,0.5984768907563025) 67%);
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+.my-cardtitle{
+    background: rgb(148,141,128);
+    background: linear-gradient(90deg, rgba(148,141,128,0.6460959383753502) 0%, rgba(175,172,144,0.9178046218487395) 31%, rgba(218,206,155,0.7525385154061625) 56%, rgba(208,207,199,0.5984768907563025) 67%);
+    border-radius: 1000px;
+    padding: 5px;
+    box-shadow: 5px 5px 5px grey;
+}
+.my-footerp{
+    font-family: 'Dancing Script'; 
+    color:white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-size: 25px; 
+}
